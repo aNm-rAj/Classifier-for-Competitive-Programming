@@ -1,0 +1,6 @@
+query1 : (count of variables)
+query2: (count of all operators)
+query3: Count of all constructs 
+query4 : (Count of all bitwise operators) 
+query5 : (Count of declaration statements)
+query6 : (Count of functions(including main) )
